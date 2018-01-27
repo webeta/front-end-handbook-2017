@@ -1,5 +1,7 @@
 # Front-End Developer Handbook 2017
 
+> 本开源书 forked from [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)，作者为 [FrontendMasters](https://github.com/FrontendMasters)，欢迎大家 star 原作者的 [repo](https://github.com/FrontendMasters/front-end-handbook-2017)，以便获得最新更新，谢谢！
+
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
 ![](cover.jpg)
