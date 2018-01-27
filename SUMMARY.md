@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [What Is a Front-End Developer?](what-is-a-FD.md)
 * [Recap of Front-end Dev in 2016](recap.md)
 * [In 2017 expect...](2017.md)
